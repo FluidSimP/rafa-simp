@@ -1,4 +1,4 @@
-# Exericise 1
+# Exericise 2
 
 Design a pure-pneumatic circuit to operate as described in the following state diagram:  
 
